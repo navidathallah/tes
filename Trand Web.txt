@@ -1,0 +1,5 @@
+1. Gradasi/High Contrast
+2. Typography & Paralax Effect
+3. 3D model & 3D texture (web gl)
+4. Move Anim/Micro Anim
+5. Over Laping Component
